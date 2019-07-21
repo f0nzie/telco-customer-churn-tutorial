@@ -1,5 +1,5 @@
 RSuiteVersion: 0.36.252
-RVersion: 3.5
+RVersion: 3.6
 Project: telco-customer-churn-tutorial
 Repositories: MRAN[2019-05-04]
 Artifacts: config_templ.txt
